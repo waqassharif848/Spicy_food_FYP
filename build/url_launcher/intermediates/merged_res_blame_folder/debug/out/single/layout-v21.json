@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\FYP\\Spicy Bite\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\J PC\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\FYP\\Spicy Bite\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\J PC\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\FYP\\Spicy Bite\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\J PC\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\FYP\\Spicy Bite\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\J PC\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

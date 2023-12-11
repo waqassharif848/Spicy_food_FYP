@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">673563485562-mjiqk74ecogku6u113sh628fid86gl1u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">673563485562</string>
+    <string name="google_api_key" translatable="false">AIzaSyBXlwgfZ0ou7LKf7GdjQKxgiT0GhUL7oaI</string>
+    <string name="google_app_id" translatable="false">1:673563485562:android:84edee087ad1014742e2c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBXlwgfZ0ou7LKf7GdjQKxgiT0GhUL7oaI</string>
+    <string name="google_storage_bucket" translatable="false">spicy-bite-d789c.appspot.com</string>
+    <string name="project_id" translatable="false">spicy-bite-d789c</string>
+</resources>
